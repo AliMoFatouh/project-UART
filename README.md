@@ -2,6 +2,11 @@
 
 A UART (Universal Asynchronous Receiver/Transmitter) controller implemented in Verilog HDL using Vivado.
 
+
+### UART Design
+![UART Design](PHOTOS/UART_RECEIVER.jpeg)
+![UART Design](PHOTOS/UART_TRANSMIT.jpeg)
+
 ## Project Structure
 
 ```text
