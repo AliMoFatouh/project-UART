@@ -5,6 +5,7 @@ A UART (Universal Asynchronous Receiver/Transmitter) controller implemented in V
 
 ### UART Design
 
+![UART Design](PHOTOS/UART.png)
 
 ## Project Structure
 
@@ -29,10 +30,10 @@ Project-UART/
 
 The design uses the Xilinx `fifo_generator_0` IP core, which must be configured in Vivado.
 
-## UART RX
+## UART RX FSM
 ![UART Design](PHOTOS/UART_RECEIVER.jpeg)
 
-## UART TX
+## UART TX FSM
 
 ![UART Design](PHOTOS/UART_TRANSMIT.jpeg)
 
